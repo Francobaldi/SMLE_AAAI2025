@@ -1,0 +1,19 @@
+quantile,condition,r2,type
+1.00,constant,0.9560485389793866,auxiliary complexity
+0.95,constant,0.9620097287958569,auxiliary complexity
+0.90,constant,0.9550321742397229,auxiliary complexity
+1.00,linear,0.9588584238689506,auxiliary complexity
+0.95,linear,0.952230304208856,auxiliary complexity
+0.90,linear,0.9466410077292585,auxiliary complexity
+1.00,small,0.9653591080984097,embedding size
+0.95,small,0.9647226243116155,embedding size
+0.90,small,0.9555663377372536,embedding size
+1.00,large,0.9560485389793866,embedding size
+0.95,large,0.9620097287958569,embedding size
+0.90,large,0.9550321742397229,embedding size
+1.00,relu,0.9560485389793866,embedding type
+0.95,relu,0.9620097287958569,embedding type
+0.90,relu,0.9550321742397229,embedding type
+1.00,lstm,0.9530811768322384,embedding type
+0.95,lstm,0.9503584275107135,embedding type
+0.90,lstm,0.9474481804518884,embedding type
